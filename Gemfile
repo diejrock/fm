@@ -30,3 +30,4 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 # Custom packages
 gem "jekyll-octopod"
+gem "rack", ">= 2.1.4"
